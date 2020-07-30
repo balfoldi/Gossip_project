@@ -1,24 +1,16 @@
-# README
+Ce projet a été fait par la Team Pas'Tèche avec l'amoure du travail bien fait, comme toujours.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Vous trouverez ici une database de potins du hacking project.
 
-Things you may want to cover:
+Penssez à faire bundle install.
 
-* Ruby version
+Les seed on été créés.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Cordialement, la Pastèque teame:
+Marion 'j' Poquet;
+Boris Alfoldi;
+Emeran Gainville;
+Souleyman Soul;
+Martin Lanrzac;
+Téo Thibaut;
+Lucas Gautier.
